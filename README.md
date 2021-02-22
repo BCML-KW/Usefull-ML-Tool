@@ -1,6 +1,20 @@
 # Usefull-ML-Tool
 
-- Contributor : [Seungwoo Han](https://github.com/Kaintels)
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Kaintels"><img src="https://avatars.githubusercontent.com/u/38157496?s=460&u=701d6896714d3551c20e1f46c15079f8e6630784&v=4" width="100px;" alt=""/><br /><sub><b>Seungwoo Han</b></sub></a><br /><a href="https://github.com/Kaintels" title="Code">🏠</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Tensorflow 2.x
 Writing...
@@ -29,3 +43,9 @@ Writing...
 |Title|Description|Link|
 |---|:---:|---|
 |FeatureSelectionGA|FeatureSelection using Genetic Algorithms|[[Link]](https://github.com/kaushalshetty/FeatureSelectionGA)|
+
+
+
+## How to Contribution
+
+Pull requests are encouraged and always welcome!

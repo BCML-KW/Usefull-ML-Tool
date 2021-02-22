@@ -18,6 +18,7 @@ Writing...
 |Title|Description|Link|
 |---|:---:|---|
 |Bayesian Optimization|Bayesain optimization library|[[Link]](https://github.com/fmfn/BayesianOptimization)|
+|NiaPy|Nature Inspired Algorithms|[[Link]](https://github.com/NiaOrg/NiaPy)|
 |DEAP|Genetic Algorithms library|[[Link]](https://github.com/DEAP/deap)|
 |Optuna|Tree-structured Parzen Estimator optimization library|[[Link]](https://github.com/optuna/optuna)|
 |Hpbandster|HyperBand and BOHB optimization library|[[Link]](https://github.com/automl/HpBandSter)|

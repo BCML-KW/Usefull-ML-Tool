@@ -4,7 +4,6 @@
 - PT : PyTorch
 - SK : Scikit-Learn
 
-
 ## Spiking Neural Networks
 
 |Title|Description|Framework|Link|
